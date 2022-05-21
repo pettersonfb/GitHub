@@ -1,0 +1,16 @@
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.exe
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.deps.json
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.runtimeconfig.json
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.runtimeconfig.dev.json
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.dll
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\ref\CreditSuisse.dll
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\bin\Debug\net5.0\CreditSuisse.pdb
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.csproj.AssemblyReference.cache
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.AssemblyInfoInputs.cache
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.AssemblyInfo.cs
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.csproj.CoreCompileInputs.cache
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.dll
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\ref\CreditSuisse.dll
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.pdb
+D:\_Projects\ConsoleApp\CreditSuisse\CreditSuisse\obj\Debug\net5.0\CreditSuisse.genruntimeconfig.cache
